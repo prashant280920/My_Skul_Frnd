@@ -23,6 +23,22 @@ export const robots = [
     fbid: '',
     instaid:'paperboardoo7/'
   },
+   {
+    id: 'DheerajMangla',
+    name: 'Dheeraj Mangla',
+    username: 'DM',
+    email: 'dheeraj@gmail.com',
+    fbid: 'dheeraj.mangla.142',
+    instaid:'dheeraj_mangla/'
+  },
+   {
+    id: 'Shivam',
+    name: 'Shivam Kashyap',
+    username: 'muku',
+    email: 'shivam@gmail.com',
+    fbid: 'profile.php?id=100008315624268',
+    instaid:'shivaaaam18/'
+  },
   {
     id: 'Bhumika',
     name: 'Bhumika',
