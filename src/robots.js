@@ -16,6 +16,14 @@ export const robots = [
     instaid:'sumitpandey_24/'
   },
   {
+    id: 'sahilAhmed',
+    name: 'Sahil Ahmed',
+    username: 'sahil',
+    email: 'sahil@gmail.com',
+    fbid: '',
+    instaid:'paperboardoo7/'
+  },
+  {
     id: 'Bhumika',
     name: 'Bhumika',
     username: 'Bhu',
