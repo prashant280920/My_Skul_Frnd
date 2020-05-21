@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My_Skul_Frnd/static/css/main.118664fb.chunk.css",
+    "main.js": "/My_Skul_Frnd/static/js/main.8431eb80.chunk.js",
+    "main.js.map": "/My_Skul_Frnd/static/js/main.8431eb80.chunk.js.map",
+    "runtime-main.js": "/My_Skul_Frnd/static/js/runtime-main.7a476e37.js",
+    "runtime-main.js.map": "/My_Skul_Frnd/static/js/runtime-main.7a476e37.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/My_Skul_Frnd/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5a84fc28.chunk.js": "/My_Skul_Frnd/static/js/2.5a84fc28.chunk.js",
+    "static/js/2.5a84fc28.chunk.js.map": "/My_Skul_Frnd/static/js/2.5a84fc28.chunk.js.map",
+    "index.html": "/My_Skul_Frnd/index.html",
+    "precache-manifest.f3b7e40220432e1ee471b891ff8b36ac.js": "/My_Skul_Frnd/precache-manifest.f3b7e40220432e1ee471b891ff8b36ac.js",
+    "service-worker.js": "/My_Skul_Frnd/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/My_Skul_Frnd/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.118664fb.chunk.css.map": "/My_Skul_Frnd/static/css/main.118664fb.chunk.css.map",
+    "static/js/2.5a84fc28.chunk.js.LICENSE.txt": "/My_Skul_Frnd/static/js/2.5a84fc28.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/My_Skul_Frnd/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a476e37.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5a84fc28.chunk.js",
+    "static/css/main.118664fb.chunk.css",
+    "static/js/main.8431eb80.chunk.js"
+  ]
+}
