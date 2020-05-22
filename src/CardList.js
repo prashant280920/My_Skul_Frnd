@@ -15,6 +15,8 @@ const CardList = ({ robots }) => {
 					email={robots[i].email}
 					fbid={robots[i].fbid} 
 					instaid={robots[i].instaid} 
+					twitid={robots[i].twitid}
+					gitid={robots[i].gitid}
 					/>);
 			})
 	   	}

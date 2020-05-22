@@ -3,7 +3,7 @@ import Socialids from './idsicon';
 
 
 const Card = (props) => {
-	const {id, name, email, fbid, instaid} = props;
+	const {id, name, email, fbid, instaid, twitid, gitid} = props;
 	return(
 
 		<div className="bg-light-green dib br3 grow pa3 ma2 shadow-5 tc">
@@ -13,7 +13,7 @@ const Card = (props) => {
 				<p>{email}</p>
 			</div>
 			
-			<Socialids fbid={fbid} instaid={instaid} />
+			<Socialids fbid={fbid} instaid={instaid} twitid={twitid} gitid={gitid} />
 			
 		</div>
 	);

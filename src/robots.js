@@ -5,7 +5,9 @@ export const robots = [
     username: 'prashant282000',
     email: 'prashant282000@gmail.com',
     fbid: 'profile.php?id=100011930971393',
-    instaid:'prashant282000/'
+    instaid:'prashant282000/',
+    twitid:'Prashan17981478',
+    gitid:'prashant280920'
   },
   {
     id: 'sumit',
@@ -13,7 +15,9 @@ export const robots = [
     username: 'sumitPy',
     email: 'sumitPandey@gmail.com',
     fbid: 'profile.php?id=100008324256054',
-    instaid:'sumitpandey_24/'
+    instaid:'sumitpandey_24/',
+    twitid:'',
+    gitid:''
   },
   {
     id: 'sahilAhmed',
@@ -21,7 +25,9 @@ export const robots = [
     username: 'sahil',
     email: 'sahil@gmail.com',
     fbid: '',
-    instaid:'paperboardoo7/'
+    instaid:'paperboardoo7/',
+    twitid:'',
+    gitid:''
   },
    {
     id: 'DheerajMangla',
@@ -29,7 +35,9 @@ export const robots = [
     username: 'DM',
     email: 'dheeraj@gmail.com',
     fbid: 'dheeraj.mangla.142',
-    instaid:'dheeraj_mangla/'
+    instaid:'dheeraj_mangla/',
+    twitid:'',
+    gitid:''
   },
    {
     id: 'Shivam',
@@ -37,7 +45,9 @@ export const robots = [
     username: 'muku',
     email: 'shivam@gmail.com',
     fbid: 'profile.php?id=100008315624268',
-    instaid:'shivaaaam18/'
+    instaid:'shivaaaam18/',
+    twitid:'',
+    gitid:''
   },
   {
     id: 'Bhumika',
@@ -45,7 +55,9 @@ export const robots = [
     username: 'Bhu',
     email: 'Bhumi@gmail.com',
     fbid: '',
-    instaid:''
+    instaid:'',
+    twitid:'Bhumika69614965?s=08',
+    gitid:''
   },
   {
     id: 2,
@@ -53,7 +65,9 @@ export const robots = [
     username: 'Sp',
     email: 'susshi_par_mar@gmail.com',
     fbid: 'dnsshnt1315',
-    instaid:'sushantprmar/'
+    instaid:'sushantprmar/',
+    twitid:'',
+    gitid:''
   },
   {
     id: 'Ankit',
@@ -61,7 +75,9 @@ export const robots = [
     username: 'I_m_Ankit',
     email: 'ankit@gmail.com',
     fbid: 'profile.php?id=100044308000574',
-    instaid:'ankit_0047/'
+    instaid:'ankit_0047/',
+    twitid:'',
+    gitid:''
   },
   {
     id: 'yashi',
@@ -69,7 +85,9 @@ export const robots = [
     username: 'ys_ty',
     email: 'yashityagi@gmail.com',
     fbid: '',
-    instaid:'yashi_tyagi25/'
+    instaid:'yashi_tyagi25/',
+    twitid:'',
+    gitid:''
   },
   {
     id: 'Kajal',
@@ -77,7 +95,9 @@ export const robots = [
     username: 'kg',
     email: 'kajal@gmail.com',
     fbid: 'kajal.garg.7543',
-    instaid:'kajal_garg_09/'
+    instaid:'kajal_garg_09/',
+    twitid:'KajalGa60724607?s=08',
+    gitid:''
   },
   {
     id: 'vihwas',
@@ -85,7 +105,9 @@ export const robots = [
     username: 'Vish',
     email: 'Vishwas@gmail.com',
     fbid: '',
-    instaid:'vishwas.nks/'
+    instaid:'vishwas.nks/',
+    twitid:'Vishwas98214411?s=08',
+    gitid:''
   },
   {
     id: "DivyaGoyal",
@@ -93,7 +115,9 @@ export const robots = [
     username: 'DG',
     email: 'Divya@gmai.com',
     fbid: 'profile.php?id=100035087359667',
-    instaid:'gdivya_28/'
+    instaid:'gdivya_28/',
+    twitid:'',
+    gitid:''
   },
   {
     id: "Khushi",
@@ -101,7 +125,9 @@ export const robots = [
     username: 'KhGy',
     email: 'Goyal@gmail.com',
     fbid: 'ammie.goyal.9',
-    instaid:'goyalkhushi_/'
+    instaid:'goyalkhushi_/',
+    twitid:'',
+    gitid:''
   },
   {
     id: "Vaishali",
@@ -109,6 +135,8 @@ export const robots = [
     username: 'VB',
     email: 'Vaish@gmail.com',
     fbid: '',
-    instaid:'sloth_bear_14/'
+    instaid:'sloth_bear_14/',
+    twitid:'',
+    gitid:''
   }
 ];

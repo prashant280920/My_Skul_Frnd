@@ -2,28 +2,33 @@ import React from 'react';
 import { SocialIcon } from 'react-social-icons';
 
 const Socialids = (props) => {
-	const { fbid, instaid } = props;
-	if (fbid === '' && instaid!==""){
-		return (<div><ul><li className="dib mr4 grow-large"><SocialIcon url={`http://instagram.com/${instaid}`} bgColor="black" fgColor="white" /></li></ul></div>);
+	const { fbid, instaid, twitid, gitid } = props;
+	var a,b,c,d;
+	if (instaid!==""){
+		a = <li className="dib mr3 grow-large"><SocialIcon url={`http://instagram.com/${instaid}`} bgColor="black" fgColor="white" /></li>;
 		
 	}
-	else if (fbid !== '' && instaid===''){
-		return (<div><ul><li className="dib mr3 grow-large"><SocialIcon url={`http://facebook.com/${fbid}`} bgColor="black" fgColor="white" /></li></ul></div>); 
-	}
-	else if (fbid !== '' && instaid !== ''){
-		return(
-			<div>
-				<ul>
-					<li className="dib mr3 grow-large"><SocialIcon url={`http://facebook.com/${fbid}`} bgColor="black" fgColor="white" /></li>
-					<li className="dib mr4 grow-large"><SocialIcon url={`http://instagram.com/${instaid}`} bgColor="black" fgColor="white" /></li>
-				</ul>
-			</div>
-		);
-
+	else{ a = '';}
+	if (fbid !== '' ){
+		 b = <li className="dib mr3 grow-large"><SocialIcon url={`http://facebook.com/${fbid}`} bgColor="black" fgColor="white" /></li>; 
 	}
 	else{
-		return <div></div>
+		 b='';
 	}
+	if (twitid !== '' ){
+		 c = <li className="dib mr3 grow-large"><SocialIcon url={`http://twitter.com/${twitid}`} bgColor="black" fgColor="white" /></li>; 
+	}
+	else{
+		 c='';
+	}
+	if (gitid !== '' ){
+		 d = <li className="dib mr3 grow-large"><SocialIcon url={`http://github.com/${gitid}`} bgColor="black" fgColor="white" /></li>; 
+	}
+	else{
+		 d='';
+	}
+	const s=<div><ul>{a}{b}{c}{d}</ul></div>;
+	return (s);	
 }
 
 
