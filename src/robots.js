@@ -46,7 +46,7 @@ export const robots = [
     email: 'shivam@gmail.com',
     fbid: 'profile.php?id=100008315624268',
     instaid:'shivaaaam18/',
-    twitid:'',
+    twitid:'Shivam59937362',
     gitid:''
   },
   {
