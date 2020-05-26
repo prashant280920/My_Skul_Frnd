@@ -9,9 +9,13 @@ class App extends Component {
 	constructor(){
 		super()
 		this.state={
-			robots: robots,
+			robots: [],
 			searchfields: ''		
 		}
+	}
+
+	componentDidMount(){
+		return this.setState({robots:robots})
 	}
 
 	onSearchChanges = (event) => {
