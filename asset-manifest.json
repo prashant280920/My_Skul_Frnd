@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/My_Skul_Frnd/static/css/main.118664fb.chunk.css",
-    "main.js": "/My_Skul_Frnd/static/js/main.8e0bde5b.chunk.js",
-    "main.js.map": "/My_Skul_Frnd/static/js/main.8e0bde5b.chunk.js.map",
+    "main.js": "/My_Skul_Frnd/static/js/main.020684ce.chunk.js",
+    "main.js.map": "/My_Skul_Frnd/static/js/main.020684ce.chunk.js.map",
     "runtime-main.js": "/My_Skul_Frnd/static/js/runtime-main.7a476e37.js",
     "runtime-main.js.map": "/My_Skul_Frnd/static/js/runtime-main.7a476e37.js.map",
     "static/css/2.3c03f26f.chunk.css": "/My_Skul_Frnd/static/css/2.3c03f26f.chunk.css",
     "static/js/2.5a84fc28.chunk.js": "/My_Skul_Frnd/static/js/2.5a84fc28.chunk.js",
     "static/js/2.5a84fc28.chunk.js.map": "/My_Skul_Frnd/static/js/2.5a84fc28.chunk.js.map",
     "index.html": "/My_Skul_Frnd/index.html",
-    "precache-manifest.80d08c3594c6cbf4150c4a4d4803833c.js": "/My_Skul_Frnd/precache-manifest.80d08c3594c6cbf4150c4a4d4803833c.js",
+    "precache-manifest.9d98ce44591e6df1afed08cf9816aa3d.js": "/My_Skul_Frnd/precache-manifest.9d98ce44591e6df1afed08cf9816aa3d.js",
     "service-worker.js": "/My_Skul_Frnd/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/My_Skul_Frnd/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.118664fb.chunk.css.map": "/My_Skul_Frnd/static/css/main.118664fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.5a84fc28.chunk.js",
     "static/css/main.118664fb.chunk.css",
-    "static/js/main.8e0bde5b.chunk.js"
+    "static/js/main.020684ce.chunk.js"
   ]
 }
