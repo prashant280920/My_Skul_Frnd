@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#first move into the directory MY_SKUL_FRND
+using command cd My_Skul_Frnd
+
 ## Available Scripts
 
 In the project directory, you can run:
