@@ -35,7 +35,7 @@ export const robots = [
     username: 'DM',
     email: 'dheeraj@gmail.com',
     fbid: 'dheeraj.mangla.142',
-    instaid:'dheeraj_mangla/',
+    instaid:'dheeraj__mangla/',
     twitid:'',
     gitid:''
   },
