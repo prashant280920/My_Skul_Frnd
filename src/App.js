@@ -16,7 +16,9 @@ class App extends Component {
 	}
 
 	componentDidMount(){
+		console.log(this.props.store.getState())
 		return this.setState({robots:robots})
+
 	}
 
 	onSearchChanges = (event) => {
